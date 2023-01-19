@@ -1,0 +1,95 @@
+.companyname {
+    text-align: center;
+}
+
+form{
+    align-content: center;
+}
+
+.companydescription{
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.aboutus{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+body{
+    background-color: #cccccc;
+}
+
+form{
+    margin-left: 5%;
+    
+}
+
+.testimonials{
+    margin-left: 5%;
+    color: chocolate;
+}
+
+.formheading{
+    margin-left: 5%;
+    color: chocolate;
+}
+
+#testimonialscontainer{
+    margin-left: 5%;
+}
+
+.clientreviews{
+
+    float: left;
+    width: 33.33%;
+}
+
+.review{
+    width: 60%;
+}
+
+#HouseImagesContainer {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gallery {
+
+    float: left;
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid black;
+
+}
+
+.gallery img {
+    width: 150px;
+    height: 150px;
+}
+
+.gallery:hover {
+    cursor: pointer;
+    border-radius: 25px;
+    box-shadow: 10px -10px grey;
+}
+
+.gallery .Description {
+    padding: 10px;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}

@@ -1,0 +1,45 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    color: brown;
+}
+
+body{
+    background-color: pink;
+}
+
+.videocaption{
+    width: 20%;
+    margin-left: 40%;
+}
+
+video{
+    margin-bottom: 0%;
+    margin-left: 40%;
+}
+
+.storedescription{
+    border-width: 3px;
+    border-style: solid;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.audiodetails{
+    margin-left: 5%;
+}
+
+img{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+audio{
+    margin-left: 5%;
+}
+
+.recipelink{
+    margin-left: 5%;
+}
